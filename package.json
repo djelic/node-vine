@@ -12,6 +12,7 @@
     "url": "https://github.com/mstuart/node-vine.git"
   },
   "dependencies": {
+    "json-bigint": "^0.1.4",
     "request": "~2.33.0"
   },
   "devDependencies": {
